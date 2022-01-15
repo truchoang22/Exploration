@@ -1,2 +1,2 @@
 # Exploration
-print('Hello world!')
+Descriptions. What the project is about.
